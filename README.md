@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muntajim Rahman Saimon</h1>
 <h3 align="center">A passionate learner & programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://github.com/Muntajim04/Muntajim04/blob/main/WhatsApp%20Image%202022-02-15%20at%201.19.20%20PM.jpeg" alt="muntajim04" /> </p>
+<p align="left"> <img src="https://github.com/Muntajim04/Muntajim04/blob/main/WhatsApp%20Image%202022-02-15%20at%201.30.41%20PM.jpeg" alt="muntajim04" /> </p>
 
 - 🌱 I’m currently learning **Computer science course offered by CS50x**
 

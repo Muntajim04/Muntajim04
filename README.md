@@ -1,14 +1,109 @@
-# 💫 About Me:
-3rd-year Software Engineering Student at Islamic University of Technology. <br>Currently learning OpenCV, Design Patterns and backend systems
+<table width="100%">
+  <tr>
+    <td width="100%" align="left">
+      🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp;&nbsp; <code>muntajim04.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center">
+      <br/>
+      <h1>Hi there 👋</h1>
+      <h2>I'm <b>Md. Muntajim Rahman Saimon</b></h2>
+      <br/>
+      <a href="https://git.io/typing-svg">
+        src="<img self.jpg" alt="Typing SVG" />
+      </a>
+      <p>3rd-year Software Engineering undergrad at <b>IUT</b> focused on backend systems, object-oriented design, and building practical software.</p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hiratsuka#7686) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muntajim-saimon-iut/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muntajim.rahman@gmail.com) 
+<h2 align="center">✨ About Me</h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muntajim04&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Muntajim04&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muntajim04&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 University & Academics</h3>
+      <p><b>Islamic University of Technology (IUT)</b></p>
+      <ul>
+        <li>🏛️ <b>Department:</b> Computer Science and Engineering (CSE)</li>
+        <li>🎓 <b>Program:</b> B.Sc. in Software Engineering (3rd Year)</li>
+        <li>🧠 <b>Core Interests:</b> Operating Systems, OOP, SOLID Principles & Problem Solving</li>
+        <li>🚀 <b>Learning Goals:</b> Deepening expertise in OpenCV, Design Patterns & backend systems</li>
+      </ul>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/University-IUT-36BCF7?style=for-the-badge" alt="University: IUT" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Software Development & Tech</h3>
+      <p><b>Backend, Desktop & Full-Stack Developer</b></p>
+      <ul>
+        <li>💻 <b>Languages:</b> C, C++, Java, Python, TypeScript, JavaScript</li>
+        <li>⚙️ <b>Technologies:</b> Node.js, Next.js, React, FastAPI, Spring, PostgreSQL, MongoDB, Docker</li>
+        <li>🛠️ <b>What I Build:</b> Backend services, Java/JavaFX OOP apps, cross-platform desktop utilities</li>
+        <li>💡 <b>Focus:</b> Writing clean, maintainable software grounded in solid architecture</li>
+      </ul>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-36BCF7?style=for-the-badge" alt="Focus: Backend Systems" />
+      </div>
+    </td>
+  </tr>
+</table>
 
+---
+
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js" height="44" alt="Languages: C, C++, C#, Java, Python, TypeScript, JavaScript" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,tailwind,prisma" height="44" alt="Frameworks & Libraries: React, Next.js, Node.js, FastAPI, Spring, Tailwind CSS, Prisma" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,github,vercel" height="44" alt="Databases & Tools: PostgreSQL, MongoDB, Firebase, Docker, Git, GitHub, Vercel" />
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Activity & Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Muntajim04&show_icons=true&theme=dark&count_private=true" height="170" alt="Muntajim04 GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Muntajim04&layout=compact&theme=dark&count_private=true" height="170" alt="Muntajim04 Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Muntajim04&theme=dark" alt="Muntajim04 GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muntajim-saimon-iut/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:muntajim.rahman@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
+  </a>
+  <!-- Portfolio placeholder: uncomment and add your URL if you have one
+  &nbsp;&nbsp;
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=black" height="36" alt="Portfolio" />
+  </a>
+  -->
+</div>
+
+<br/>

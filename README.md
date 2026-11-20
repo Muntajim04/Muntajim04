@@ -10,9 +10,6 @@
       <h1>Hi there 👋</h1>
       <h2>I'm <b>Md. Muntajim Rahman Saimon</b></h2>
       <br/>
-      <a href="https://git.io/typing-svg">
-        src="<img self.jpg" alt="Typing SVG" />
-      </a>
       <p>3rd-year Software Engineering undergrad at <b>IUT</b> focused on backend systems, object-oriented design, and building practical software.</p>
       <br/>
     </td>
